@@ -17,7 +17,7 @@ Our organization hosts repositories for:
 ## Contact
 - **Principal Investigator:** Marylka Yoe Uusisaari
 - **Email:** *(uusisaari@oist.jp*
-- [Lab website][(https://your-lab-website.org](https://www.oist.jp/research/research-units/nrim))
+- [Lab website][(https://www.oist.jp/research/research-units/nrim](https://www.oist.jp/research/research-units/nrim))
 
 ## Collaboration
 We're open to collaboration! Please reach out if interested in working together.
